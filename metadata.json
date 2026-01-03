@@ -1,0 +1,7 @@
+{
+  "name": "TechSolve AI",
+  "description": "An advanced AI-powered troubleshooting assistant for hardware, software, and AI systems. Features multi-modal analysis and deep reasoning for complex technical diagnostics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
